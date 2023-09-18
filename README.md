@@ -4,12 +4,12 @@
 <h1 align="center">Welcome to My GitHub Profile 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## About Me
 
-Assalamu Alaikum Warahmatullah! 🌟 I'm [Your Name], a self-taught Front-End Developer, Computer Science Student, and an avid learner and researcher. I have a passion for coding and exploring new technologies.
+Assalamu Alaikum Warahmatullah! 🌟 I'm [Jeny Metaute], a self-taught Full-Stack Developer, Computer Science Student, and an avid learner and researcher. I have a passion for coding and exploring new technologies.
 
 ## My Tech Stack
 
@@ -34,9 +34,9 @@ Assalamu Alaikum Warahmatullah! 🌟 I'm [Your Name], a self-taught Front-End De
 
 ## Connect with Me
 
-- [GitHub](https://github.com/YourGitHubUsername)
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Email](mailto:youremail@example.com)
+- [GitHub](https://[github.com/JenyCris/jenycris))
+- [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/jeny-metaute-63854099/))
+- [Email](jeny.metaute321@gmail.com)
 
 ## Let's Code Together!
 
