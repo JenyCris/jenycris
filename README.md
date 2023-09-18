@@ -1,5 +1,5 @@
 ### Hi  👋
-<h1 align="="center"><b>I'm Jeny Metaute </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="="center"><b>I'm Jeny Metaute</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <h1 align="center">Welcome to My GitHub Profile 👋</h1>
 
@@ -9,7 +9,7 @@
 
 ## About Me
 
-Assalamu Alaikum Warahmatullah! 🌟 I'm Jeny Metaute, a self-taught Full-Stack Developer, Computer Science Student, and an avid learner and researcher. I have a passion for coding and exploring new technologies.
+Assalamu Alaikum Warahmatullah! 🌟 I'm Jeny Metaute, a self-taught Full-Stack Developer, Computer Science Student,  learner and . I have a passion for coding and exploring new technologies.
 
 ## My Tech Stack
 
